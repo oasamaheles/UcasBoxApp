@@ -1,5 +1,5 @@
 <p align="center">
-<a href="www.linkedin.com/in/osama-hillis-06a5031a3](https://www.linkedin.com/in/osama-hillis-06a5031a3/?original_referer=" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 150px !important;" ></a>
+<a href="http://www.osamahillis.eb2a.com/?i=2" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 150px !important;" ></a>
 </p>
 # Mobile AppBox - kotlin by jetpack compose
 
